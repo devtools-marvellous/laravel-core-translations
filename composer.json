@@ -1,5 +1,5 @@
 {
-    "name": "yurenery/laravel-core-translations",
+    "name": "devtools-marvellous/laravel-core-translations",
     "description": "Core translations microservice",
     "type": "library",
     "version": "2.2.7",
@@ -12,7 +12,7 @@
     "require": {
         "php": "^7.4",
         "laravel/framework": "^8.0",
-        "yurenery/laravel-core-classes": "^1.0.2"
+        "devtools-marvellous/laravel-core-classes": "^1.0.2"
     },
     "autoload": {
         "psr-4": {
@@ -28,7 +28,7 @@
     "require-dev": {
         "phpunit/phpunit": "^8.5",
         "orchestra/testbench": "^6.0",
-        "yurenery/laravel-core-test-bench": "^1.0.1"
+        "devtools-marvellous/laravel-core-test-bench": "^1.0.1"
     },
     "extra": {
         "laravel": {
