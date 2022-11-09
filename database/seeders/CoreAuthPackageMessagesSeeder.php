@@ -35,7 +35,7 @@ class CoreAuthPackageMessagesSeeder extends CorePackagesTranslationsSeeder
             "Password  and confirmation field values should be equals to each other.",
             "Password should be :min characters in length.",
             "Oops, this email is not registered with :App_name.",
-            "Email is already registered in the :App_name.",
+            "Email is already registered with :App_name.",
         ];
     }
 
