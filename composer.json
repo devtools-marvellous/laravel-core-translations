@@ -2,7 +2,7 @@
     "name": "devtools-marvellous/laravel-core-translations",
     "description": "Core translations microservice",
     "type": "library",
-    "version": "2.2.7",
+    "version": "2.2.8",
     "authors": [
         {
             "name": "Yure Nery",
