@@ -12,12 +12,17 @@
     "require": {
         "php": ">=8.0",
         "laravel/framework": "^10.0",
-        "devtools-marvellous/laravel-core-classes": "^1.1.15"
+        "devtools-marvellous/laravel-core-classes": "^1.1.15",
+        "laravel/passport": "^12.3",
+        "spatie/laravel-translation-loader": "^2.7"
     },
     "autoload": {
         "psr-4": {
             "AttractCores\\LaravelCoreTranslation\\": "src/"
         }
+    },
+    "require-dev": {
+        "fakerphp/faker": "^1.9.1"
     },
     "autoload-dev": {
         "psr-4": {
