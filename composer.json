@@ -12,7 +12,7 @@
     "require": {
         "php": ">=8.0",
         "laravel/framework": "^10.0",
-        "devtools-marvellous/laravel-core-classes": "^1.1.14"
+        "devtools-marvellous/laravel-core-classes": "^1.1.15"
     },
     "autoload": {
         "psr-4": {
