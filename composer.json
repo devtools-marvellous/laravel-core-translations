@@ -2,7 +2,7 @@
     "name": "devtools-marvellous/laravel-core-translations",
     "description": "Core translations microservice",
     "type": "library",
-    "version": "2.2.8",
+    "license": "MIT",
     "authors": [
         {
             "name": "Yure Nery",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": ">=8.0",
         "laravel/framework": "^10.0",
         "devtools-marvellous/laravel-core-classes": "^1.1.14"
     },
