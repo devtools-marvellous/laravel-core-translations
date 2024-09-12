@@ -13,7 +13,7 @@
         "php": ">=8.0",
         "laravel/framework": "^10.0",
         "devtools-marvellous/laravel-core-classes": "^1.1.15",
-        "laravel/passport": "^12.3",
+        "laravel/passport": "^11.0",
         "spatie/laravel-translation-loader": "^2.7"
     },
     "autoload": {
